@@ -19,13 +19,13 @@ Features
 
 - ## Backup and restore:
 
-  - /ED64 (system, saves, cheats, settings)
+  - */ED64 (system, saves, cheats, settings)*
 
-  - /THEMES
+  - */THEMES*
 
-  - /N64 (game ROMs)
+  - */N64 (game ROMs)*
 
-  - /TOOLS (utility ROMs)
+  - */TOOLS (utility ROMs)*
 
 - ## OS version selection and installation
 
@@ -38,23 +38,23 @@ Features
 
 ## After setup, the SD card will contain:
 
-   - /ED64
+   - */ED64*
 
-   - /ED64/save
+   - */ED64/save*
 
-   - /ED64/cheats
+   - */ED64/cheats*
 
-   - /ED64/sys
+   - */ED64/sys*
 
-   - /ED64/emu
+   - */ED64/emu*
 
-   - /ED64/patcher
+   - */ED64/patcher*
 
-   - /N64
+   - */N64*
 
-   - /TOOLS
+   - */TOOLS*
 
-   - /THEMES
+   - */THEMES*
 
 
 
